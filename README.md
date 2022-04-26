@@ -34,15 +34,17 @@ Notes on creating a Raspberry Pi-based handheld
   - Would-be-nice: Additional expansion storage via micro sd slot on outside of case
 
 - Controls:
-  - D-Pad or Analog Stick (Would prefer the stick)
+  - D-Pad or Analog Stick (Would prefer the stick, esp. with the button)
   - A, B, X, Y
     - With the GBA case, we can cut a circle for where the buttons would go and rotate them as the B and A buttons normally are too horizontal to feel comfortable to use if holes were poked for X and Y without any rotation.
   - Start
   - Select
-  - L and R triggers
+  - L and R bumpers
   - On/Off switch
     - With something hopefully like the GPi's shutdown script
   - Audio wheel
+  - Would-be-nice:
+    - L and R triggers
 
 - Case:
   - Must be able to hold all of the components inside
@@ -51,5 +53,13 @@ Notes on creating a Raspberry Pi-based handheld
   - Must not cause the CPU or the voltage converter to overheat!
   - Should hopefully look good
 
+- Speaker:
+  - 1" diameter speaker?
+
 - OS:
   - Control pad friendly OS display
+  - Ability to play pygame games
+  - Hopefully RetroPi
+
+- Would-be-nice:
+  - Microphone?
